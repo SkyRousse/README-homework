@@ -42,4 +42,7 @@ _I didn't use anything exciting or new on this practice file_
 ### This is a practice list
 [click here](http://wired.com) to read some interesting articles about tech
 
+### This is an image inserted for practice
+![a random image of a dog](http://static.ddmcdn.com/gif/1--old-dog-breeds--151203.jpg)
+
 Copyright (c) 2015 **_Sky Rousse_**
