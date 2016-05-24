@@ -34,4 +34,8 @@ _I didn't use anything exciting or new on this practice file_
 
 *Determine the license under which this application can be used.  See below for more details on licensing.*
 
+1. this is the first list item
+2. this is the second list item
+3. this is the third list item
+
 Copyright (c) 2015 **_Sky Rousse_**
