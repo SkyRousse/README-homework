@@ -34,8 +34,12 @@ _I didn't use anything exciting or new on this practice file_
 
 *Determine the license under which this application can be used.  See below for more details on licensing.*
 
+### This is a pratice list
 1. this is the first list item
 2. this is the second list item
 3. this is the third list item
+
+### This is a practice list
+[click here](http://wired.com) to read some interesting articles about tech
 
 Copyright (c) 2015 **_Sky Rousse_**
