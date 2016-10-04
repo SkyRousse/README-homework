@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a sample of a detailed description of a application. Its purpose and usage is to give as much detail as needed to explain what the application does, and any other information for users or other developers to have._
+_This is a sample of a detailed description of a application. Its purpose and usage is to give as much detail as needed to explain what the application does, and any other information for users or other developers to have. This file can be used as a reference or template._
 
 ## Setup/Installation Requirements
 
